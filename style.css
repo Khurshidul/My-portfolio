@@ -1,0 +1,14 @@
+body{
+    font-family: 'DM Serif Display', serif;
+    font-family: 'Poppins', sans-serif;
+}
+h1{
+    font-size: 50px;
+    color: mediumblue;
+}
+#h1{
+    color: turquoise;
+}
+#s1{
+    color: teal;
+}
