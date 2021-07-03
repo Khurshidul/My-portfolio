@@ -6,9 +6,28 @@ h1{
     font-size: 50px;
     color: mediumblue;
 }
+hr{
+    width: auto;
+    height: 5px;
+    color: slategrey;
+    background-color:#2874A6;"
+}
 #h1{
     color: turquoise;
+    margin-left: 200px;
+
 }
 #s1{
     color: teal;
+}
+section{
+    display: flex;
+}
+.half-width{
+    width: 50%;
+    margin: 20px;
+
+}
+.half-width img{
+    width: 70%;
 }
