@@ -30,7 +30,7 @@ section{
 
 }
 .half-width img{
-    width: 70%;
+    width: 80%;
 }
 .link-button{
     color: black;
@@ -43,4 +43,15 @@ section{
 .top-banner{
     background-image: url(images/top-banner.png);
     background-repeat: no-repeat;
+}
+.dream-big{
+    display: flex;
+    
+}
+#sec2-div1{
+    padding-top: 10%;
+}
+#sec2-div2{
+    padding-top: 10%;
+    padding-right: 10%;
 }
