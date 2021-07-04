@@ -5,7 +5,10 @@ body{
 }
 h1{
     font-size: 50px;
-    color: mediumblue;
+    color: rgb(0, 251, 176);
+}
+h3{
+    color: dodgerblue;
 }
 hr{
     width: auto;
@@ -18,11 +21,16 @@ hr{
     margin-left: 200px;
 
 }
+#exp-h1{
+    font-size: 30px;
+    color: #b8a501;
+}
 #s1{
     color: teal;
 }
-section{
+.flexible-container{
     display: flex;
+    margin-bottom: 5%;
 }
 .half-width{
     width: 50%;
@@ -48,10 +56,31 @@ section{
     display: flex;
     
 }
-#sec2-div1{
-    padding-top: 10%;
+.exp1{
+    padding-right: 5%;
 }
-#sec2-div2{
-    padding-top: 10%;
-    padding-right: 10%;
+.experiences-area{
+    background-image: url(images/exp-bg.png);
+    background-repeat: no-repeat;
+    background-position: left;
+}
+.web-div{
+    width: 50%;
+    height: 400px;
+    box-shadow: 10px 10px 40px #7dd6c7;
+    border-radius: 10px;
+    margin-left: 5%;
+    margin-right: 5%;
+    padding-left: 20px;
+
+}
+
+
+#exp-item1{
+    border-left: 10px solid;
+    border-color: rgb(202, 105, 69);
+}
+#exp-item2{
+    border-left: 10px solid;
+    border-color: rgb(43, 175, 105);
 }
