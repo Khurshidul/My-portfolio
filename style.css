@@ -65,7 +65,6 @@ hr{
     background-position: left;
 }
 .web-div{
-    width: 50%;
     box-shadow: 10px 10px 40px #7dd6c7;
     border-radius: 10px;
     margin-left: 5%;
@@ -87,4 +86,8 @@ hr{
 footer p{
     color: rgb(251, 92, 0);
     text-align: center;
+}
+footer img{
+   width: 5%;
+   height: 60px;
 }
