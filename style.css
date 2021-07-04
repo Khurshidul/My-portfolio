@@ -66,7 +66,6 @@ hr{
 }
 .web-div{
     width: 50%;
-    height: 400px;
     box-shadow: 10px 10px 40px #7dd6c7;
     border-radius: 10px;
     margin-left: 5%;
@@ -82,5 +81,10 @@ hr{
 }
 #exp-item2{
     border-left: 10px solid;
-    border-color: rgb(43, 175, 105);
+    border-image: linear-gradient(#71cf95, #07a3b8);
+    border-image-slice: 1;
+}
+footer p{
+    color: rgb(251, 92, 0);
+    text-align: center;
 }
